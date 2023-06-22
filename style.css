@@ -326,7 +326,10 @@ nav ul li a:hover::after {
         justify-content: center;
         color: #fff;
         margin: 40px;
-        
+    }
+
+    .general-separator {
+        color:black;
     }
   }
   
