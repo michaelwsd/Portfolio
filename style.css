@@ -288,8 +288,22 @@ nav ul li a:hover::after {
 @media only screen and (max-width: 600px) {
     .box ul li {
       position: static;
-      width: 35px;
-      height: 35px;
+      width: 0px;
+      height: 0px;
+      list-style: none;
+      opacity: 1;
+      background: radial-gradient(rgb(22, 122, 155), transparent, transparent);
+      bottom: initial;
+      left: initial;
+      animation: none;
+    }
+  }
+
+@media only screen and (max-width: 600px) {
+    .box2 ul li {
+      position: static;
+      width: 0px;
+      height: 0px;
       list-style: none;
       opacity: 1;
       background: radial-gradient(rgb(22, 122, 155), transparent, transparent);
