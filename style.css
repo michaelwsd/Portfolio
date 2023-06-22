@@ -311,6 +311,23 @@ nav ul li a:hover::after {
       left: initial;
       animation: none;
     }
+
+    #para {
+        justify-content: center;
+        text-align-last: left;
+        letter-spacing: 1px;
+        text-decoration: none;
+        max-width: 600px;
+        margin: 20px;
+        font-family: 'Times New Roman', Times, serif;
+    }
+
+    #title {
+        justify-content: center;
+        color: #fff;
+        margin: 40px;
+        
+    }
   }
   
 @keyframes animate {
