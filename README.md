@@ -1,2 +1,2 @@
 # Portfolio
-Portfolio website made using HTML and CSS.
+Portfolio website made using HTML, CSS and Bootstrap.
