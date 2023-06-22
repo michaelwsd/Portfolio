@@ -99,6 +99,7 @@ nav ul li a:hover::after {
 #title {
     color: #fff;
     margin: 40px;
+    justify-content: center;
 }
 
 #para {
@@ -109,6 +110,7 @@ nav ul li a:hover::after {
     max-width: 600px;
     margin: 20px;
     font-family: 'Times New Roman', Times, serif;
+    justify-content: center;
 }
 
 #para2 {
@@ -119,6 +121,7 @@ nav ul li a:hover::after {
     max-width: 600px;
     margin: 20px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    justify-content: center;
 }
 
 .header-text {
