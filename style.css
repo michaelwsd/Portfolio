@@ -337,6 +337,24 @@ nav ul li a:hover::after {
         margin: 10px;
         justify-content: center;
     }
+
+    .card {
+        width: 500px;
+        height: 150px;
+        display: block;
+        border-radius: 10px;
+        padding: 15px 25px;
+        box-sizing: border-box;
+        cursor: pointer;
+        margin: 20px 20px;
+        background-image: url(bg.webp);
+        background-position-x: 120px;
+        background-size: cover;
+        color: #fff;
+        box-shadow: 0 0 0 2px white;
+        transition: transform 0.5s;
+        justify-content: center;
+    }
   }
   
 @keyframes animate {
