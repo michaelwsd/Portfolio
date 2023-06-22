@@ -297,9 +297,7 @@ nav ul li a:hover::after {
       left: initial;
       animation: none;
     }
-  }
-
-@media only screen and (max-width: 600px) {
+    
     .box2 ul li {
       position: static;
       width: 0px;
