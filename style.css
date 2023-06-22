@@ -331,6 +331,12 @@ nav ul li a:hover::after {
     .general-separator {
         color:black;
     }
+
+    .profilepage {
+        border-radius: 50%;
+        margin: 10px;
+        justify-content: center;
+    }
   }
   
 @keyframes animate {
