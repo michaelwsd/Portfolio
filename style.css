@@ -349,7 +349,7 @@ nav ul li a:hover::after {
     #para,
     #para2 {
         text-align: left;
-        margin-left: -20%;
+        margin-left: -5%;
         margin-right: 10px;
         max-width: 85%;
     }
@@ -383,7 +383,7 @@ nav ul li a:hover::after {
     }
 
     .icon {
-        margin-left: -50%;
+        margin-left: -20%;
     }
 
     #right {
@@ -413,9 +413,13 @@ nav ul li a:hover::after {
     }
 
     .header-text2 {
+        margin-left: -60px;
+    }
+
+    .header-text {
         margin-left: -50px;
     }
-    
+
   }
   
 @keyframes animate {
