@@ -320,14 +320,29 @@ nav ul li a:hover::after {
         bottom: initial;
         left: initial;
         animation: none;
-      } 
-
-      #title,
-      #para {
+      }
+    
+    #title,
+    #para {
         text-align: center;
         margin-left: auto;
         margin-right: auto;
-      }
+    }
+
+    .separator, .footer-separator {
+        border: none;
+        height: 2px;
+        background-color: rgba(197, 197, 189, 0.603);
+        border-top: dashed;
+        margin: 10px 0;
+        margin-left: 0;
+        margin-right: 0;
+        width: 100%;
+    }
+    
+    .footer-separator {
+        margin-bottom: 2cm; /* Adjust the margin as needed for mobile devices */
+    }
 
   }
   
