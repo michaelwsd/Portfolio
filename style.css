@@ -135,7 +135,7 @@ nav ul li a:hover::after {
 
 #para3 {
     
-    text-align-last: left;
+    text-align-last: center;
     letter-spacing: 1px;
     text-decoration: none;
     max-width: 600px;
@@ -460,7 +460,7 @@ nav ul li a:hover::after {
 
 #tit {
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    padding: 10px;
+    padding: 5px;
     text-decoration: underline;
 }
 
