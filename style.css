@@ -450,7 +450,7 @@ nav ul li a:hover::after {
     box-sizing: border-box;
     cursor: pointer;
     margin: 20px 20px;
-    background-image: url(bg.webp);
+    background-image: url(bg.jpg);
     background-position-x: 120px;
     background-size: cover;
     color: #fff;
